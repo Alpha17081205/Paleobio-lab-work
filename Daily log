@@ -1,3 +1,9 @@
 30-11-2022
+Papers on Growth model and morphometric analysis for EGU conference.
 Downloaded the original data form the supplementary mateiral. The latlng_precision gives the filtering criteria for filtering the latitude longitude values. 
-Observed NA value for cell number
+Observed NA value for cell number - Got assigned cell numbers for each row (Solution : Check LAtitude should be on X axis and Lng on Y
+                                                 Check extracting cell number first on Meso_latlng and see whether it gives proper cell number or not)
+Checked first criteria of more than 10 species in each cell
+Pending : Check the filterign criteria from the paper and supplementary + EGU COnference + Start writing Strm review
+
+
